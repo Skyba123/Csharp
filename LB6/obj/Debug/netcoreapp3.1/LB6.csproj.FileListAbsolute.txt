@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\LB6\LB6\obj\Debug\netcoreapp3.1\LB6.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\LB6\LB6\obj\Debug\netcoreapp3.1\LB6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LB6\LB6\obj\Debug\netcoreapp3.1\LB6.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LB6\LB6\obj\Debug\netcoreapp3.1\LB6.AssemblyInfo.cs
+C:\Users\User\source\repos\LB6\LB6\obj\Debug\netcoreapp3.1\LB6.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LB6\LB6\bin\Debug\netcoreapp3.1\LB6.exe
+C:\Users\User\source\repos\LB6\LB6\bin\Debug\netcoreapp3.1\LB6.deps.json
+C:\Users\User\source\repos\LB6\LB6\bin\Debug\netcoreapp3.1\LB6.runtimeconfig.json
+C:\Users\User\source\repos\LB6\LB6\bin\Debug\netcoreapp3.1\LB6.runtimeconfig.dev.json
+C:\Users\User\source\repos\LB6\LB6\bin\Debug\netcoreapp3.1\LB6.dll
+C:\Users\User\source\repos\LB6\LB6\bin\Debug\netcoreapp3.1\LB6.pdb
+C:\Users\User\source\repos\LB6\LB6\obj\Debug\netcoreapp3.1\LB6.dll
+C:\Users\User\source\repos\LB6\LB6\obj\Debug\netcoreapp3.1\LB6.pdb
+C:\Users\User\source\repos\LB6\LB6\obj\Debug\netcoreapp3.1\LB6.genruntimeconfig.cache
