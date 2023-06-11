@@ -1,0 +1,18 @@
+C:\Users\AMRX\source\repos\Sea War\Sea War\bin\Debug\Sea War.exe.config
+C:\Users\AMRX\source\repos\Sea War\Sea War\bin\Debug\Sea War.exe
+C:\Users\AMRX\source\repos\Sea War\Sea War\bin\Debug\Sea War.pdb
+C:\Users\AMRX\source\repos\Sea War\Sea War\obj\Debug\Sea War.csproj.AssemblyReference.cache
+C:\Users\AMRX\source\repos\Sea War\Sea War\obj\Debug\Sea_War.Properties.Resources.resources
+C:\Users\AMRX\source\repos\Sea War\Sea War\obj\Debug\Sea War.csproj.GenerateResource.cache
+C:\Users\AMRX\source\repos\Sea War\Sea War\obj\Debug\Sea War.csproj.CoreCompileInputs.cache
+C:\Users\AMRX\source\repos\Sea War\Sea War\obj\Debug\Sea War.exe
+C:\Users\AMRX\source\repos\Sea War\Sea War\obj\Debug\Sea War.pdb
+C:\Курсова\Курсова\Sea War\bin\Debug\Sea War.exe.config
+C:\Курсова\Курсова\Sea War\bin\Debug\Sea War.exe
+C:\Курсова\Курсова\Sea War\bin\Debug\Sea War.pdb
+C:\Курсова\Курсова\Sea War\obj\Debug\Sea War.csproj.AssemblyReference.cache
+C:\Курсова\Курсова\Sea War\obj\Debug\Sea_War.Properties.Resources.resources
+C:\Курсова\Курсова\Sea War\obj\Debug\Sea War.csproj.GenerateResource.cache
+C:\Курсова\Курсова\Sea War\obj\Debug\Sea War.csproj.CoreCompileInputs.cache
+C:\Курсова\Курсова\Sea War\obj\Debug\Sea War.exe
+C:\Курсова\Курсова\Sea War\obj\Debug\Sea War.pdb
